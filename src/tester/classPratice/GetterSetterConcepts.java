@@ -1,4 +1,4 @@
-package tester.ClassPratice;
+package tester.classPratice;
 
 import java.util.Date;
 public class GetterSetterConcepts {

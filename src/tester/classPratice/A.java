@@ -1,4 +1,4 @@
-package tester.ClassPratice;
+package tester.classPratice;
 
 public class A {
     public int x;

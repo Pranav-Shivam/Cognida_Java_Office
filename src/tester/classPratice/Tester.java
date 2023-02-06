@@ -1,4 +1,4 @@
-package tester.ClassPratice;
+package tester.classPratice;
 
 public class Tester {
     public static void main(String[] args) {
