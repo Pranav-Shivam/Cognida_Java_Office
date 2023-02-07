@@ -1,4 +1,4 @@
-package tester;
+package tester.demo;
 
 import java.util.*;
 public class Combinations {

@@ -1,4 +1,4 @@
-package tester;
+package tester.demo;
 
 public class First {
     public static void main(String[] args) {

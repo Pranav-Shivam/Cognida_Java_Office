@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9ada2e1c-a771-4c6d-a9e2-75dc6de750dd" name="Changes" comment="Third Commit">
-      <change afterPath="$PROJECT_DIR$/src/tester/exceptionHndling/FinallyBlock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tester/exceptionHndling/ThrowKeyword.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tester/exceptionHndling/ThrowsKeyword.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="9ada2e1c-a771-4c6d-a9e2-75dc6de750dd" name="Changes" comment="Third Commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -203,7 +198,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675771776251</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Third Commit">
+      <created>1675773559417</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1675773559417</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
