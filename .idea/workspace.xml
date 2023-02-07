@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9ada2e1c-a771-4c6d-a9e2-75dc6de750dd" name="Changes" comment="Third Commit">
-      <change afterPath="$PROJECT_DIR$/src/tester/interfacePratice/Check.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tester/interfacePratice/MultipleInheritance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tester/interfacePratice/Raju.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tester/interfacePratice/WebDev.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tester/interfacePratice/ExtendingInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tester/interfacePratice/InterfaceInJava_8.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,7 +47,7 @@
     &quot;last_opened_file_path&quot;: &quot;C:/Tester/Java/Office-Pratice&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.MultipleInheritance">
+  <component name="RunManager" selected="Application.InterfaceInJava_8">
     <configuration name="Check" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="tester.interfacePratice.Check" />
       <module name="JavaPra" />
@@ -63,21 +61,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MethodOverriding" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tester.polymorphism.MethodOverriding" />
-      <module name="JavaPra" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tester.polymorphism.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MultipleInheritance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tester.interfacePratice.MultipleInheritance" />
+    <configuration name="ExtendingInterface" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tester.interfacePratice.ExtendingInterface" />
       <module name="JavaPra" />
       <extension name="coverage">
         <pattern>
@@ -89,8 +74,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Raju" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tester.interfacePratice.Raju" />
+    <configuration name="InterfaceInJava_8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tester.interfacePratice.InterfaceInJava_8" />
+      <module name="JavaPra" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tester.interfacePratice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MultipleInheritance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tester.interfacePratice.MultipleInheritance" />
       <module name="JavaPra" />
       <extension name="coverage">
         <pattern>
@@ -117,11 +115,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.InterfaceInJava_8" />
+        <item itemvalue="Application.ExtendingInterface" />
         <item itemvalue="Application.MultipleInheritance" />
         <item itemvalue="Application.WebDev" />
         <item itemvalue="Application.Check" />
-        <item itemvalue="Application.Raju" />
-        <item itemvalue="Application.MethodOverriding" />
       </list>
     </recent_temporary>
   </component>
@@ -183,7 +181,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675747286963</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Third Commit">
+      <created>1675758820664</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1675758820664</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
