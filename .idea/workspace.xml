@@ -4,19 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9ada2e1c-a771-4c6d-a9e2-75dc6de750dd" name="Changes" comment="First Commit">
-      <change afterPath="$PROJECT_DIR$/src/tester/inheritancePratice/demo/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tester/inheritancePratice/demo/Bird.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tester/inheritancePratice/demo/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tester/inheritancePratice/demo/DemoAnimal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tester/inheritancePratice/demo/Eagle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tester/inheritancePratice/demo/Eel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tester/inheritancePratice/demo/Fish.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tester/inheritancePratice/demo/Reptile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tester/inheritancePratice/typesOfVehicle/Bike.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tester/inheritancePratice/typesOfVehicle/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tester/inheritancePratice/typesOfVehicle/Truck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tester/inheritancePratice/vehicle/Vehicle.java" afterDir="false" />
+    <list default="true" id="9ada2e1c-a771-4c6d-a9e2-75dc6de750dd" name="Changes" comment="Second Commit">
+      <change afterPath="$PROJECT_DIR$/src/tester/polymorphism/Adder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tester/polymorphism/MainOverloading.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tester/polymorphism/Poly.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tester/polymorphism/TypePromotion.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -57,13 +49,13 @@
     &quot;last_opened_file_path&quot;: &quot;C:/Tester/Java/Office-Pratice&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.DemoAnimal">
-    <configuration name="Car" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tester.classPratice.Car" />
+  <component name="RunManager" selected="Application.TypePromotion">
+    <configuration name="Adder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tester.polymorphism.Adder" />
       <module name="JavaPra" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tester.classPratice.*" />
+          <option name="PATTERN" value="tester.polymorphism.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -71,12 +63,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DateDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tester.datePratice.DateDemo" />
+    <configuration name="MainOverloading" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tester.polymorphism.MainOverloading" />
       <module name="JavaPra" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tester.datePratice.*" />
+          <option name="PATTERN" value="tester.polymorphism.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -84,12 +76,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tester.inheritancePratice.demo.Demo" />
+    <configuration name="Poly" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tester.polymorphism.Poly" />
       <module name="JavaPra" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tester.inheritancePratice.demo.*" />
+          <option name="PATTERN" value="tester.polymorphism.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -97,12 +89,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DemoAnimal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tester.inheritancePratice.demo.DemoAnimal" />
+    <configuration name="TestOverloading2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tester.polymorphism.TestOverloading2" />
       <module name="JavaPra" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tester.inheritancePratice.demo.*" />
+          <option name="PATTERN" value="tester.polymorphism.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,12 +102,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GetterSetterConcepts" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tester.classPratice.GetterSetterConcepts" />
+    <configuration name="TypePromotion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tester.polymorphism.TypePromotion" />
       <module name="JavaPra" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tester.classPratice.*" />
+          <option name="PATTERN" value="tester.polymorphism.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -125,11 +117,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.DemoAnimal" />
-        <item itemvalue="Application.Demo" />
-        <item itemvalue="Application.Car" />
-        <item itemvalue="Application.DateDemo" />
-        <item itemvalue="Application.GetterSetterConcepts" />
+        <item itemvalue="Application.TypePromotion" />
+        <item itemvalue="Application.MainOverloading" />
+        <item itemvalue="Application.Adder" />
+        <item itemvalue="Application.TestOverloading2" />
+        <item itemvalue="Application.Poly" />
       </list>
     </recent_temporary>
   </component>
@@ -170,12 +162,20 @@
       <option name="project" value="LOCAL" />
       <updated>1675676560368</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Second Commit">
+      <created>1675745177511</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1675745177511</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="First Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="First Commit" />
+    <MESSAGE value="Second Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Second Commit" />
   </component>
 </project>
