@@ -5,11 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9ada2e1c-a771-4c6d-a9e2-75dc6de750dd" name="Changes" comment="Third Commit">
-      <change afterPath="$PROJECT_DIR$/src/tester/classesPratice/InnerClassConcepts.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tester/classesPratice/LocalInnerClassPratice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tester/exceptionHndling/ExceptionExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tester/interfacePratice/AbstractClassEg.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tester/interfacePratice/InterfaceInJava_9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tester/exceptionHndling/FinallyBlock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tester/exceptionHndling/ThrowKeyword.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tester/exceptionHndling/ThrowsKeyword.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,39 +48,13 @@
     &quot;last_opened_file_path&quot;: &quot;C:/Tester/Java/Office-Pratice&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.NestedTryBlock">
-    <configuration name="ExceptionExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tester.exceptionHndling.ExceptionExample" />
+  <component name="RunManager" selected="Application.ThrowsKeyword">
+    <configuration name="FinallyBlock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tester.exceptionHndling.FinallyBlock" />
       <module name="JavaPra" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="tester.exceptionHndling.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="InnerClassConcepts (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tester.classesPratice.InnerClassConcepts" />
-      <module name="JavaPra" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tester.classesPratice.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LocalInnerClassPratice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tester.classesPratice.LocalInnerClassPratice" />
-      <module name="JavaPra" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tester.classesPratice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,13 +88,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ThrowKeyword" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tester.exceptionHndling.ThrowKeyword" />
+      <module name="JavaPra" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tester.exceptionHndling.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThrowsKeyword" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tester.exceptionHndling.ThrowsKeyword" />
+      <module name="JavaPra" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tester.exceptionHndling.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ThrowsKeyword" />
+        <item itemvalue="Application.ThrowKeyword" />
+        <item itemvalue="Application.FinallyBlock" />
         <item itemvalue="Application.NestedTryBlock" />
         <item itemvalue="Application.MultiCatchBlocks" />
-        <item itemvalue="Application.ExceptionExample" />
-        <item itemvalue="Application.LocalInnerClassPratice" />
-        <item itemvalue="Application.InnerClassConcepts (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -198,7 +196,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675761865088</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Third Commit">
+      <created>1675771776251</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1675771776251</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
