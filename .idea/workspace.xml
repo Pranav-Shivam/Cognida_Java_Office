@@ -4,7 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9ada2e1c-a771-4c6d-a9e2-75dc6de750dd" name="Changes" comment="First Commit" />
+    <list default="true" id="9ada2e1c-a771-4c6d-a9e2-75dc6de750dd" name="Changes" comment="First Commit">
+      <change afterPath="$PROJECT_DIR$/src/tester/inheritancePratice/demo/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tester/inheritancePratice/demo/Bird.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tester/inheritancePratice/demo/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tester/inheritancePratice/demo/DemoAnimal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tester/inheritancePratice/demo/Eagle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tester/inheritancePratice/demo/Eel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tester/inheritancePratice/demo/Fish.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tester/inheritancePratice/demo/Reptile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tester/inheritancePratice/typesOfVehicle/Bike.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tester/inheritancePratice/typesOfVehicle/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tester/inheritancePratice/typesOfVehicle/Truck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tester/inheritancePratice/vehicle/Vehicle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -39,29 +53,17 @@
     &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
     &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Tester/Java/Office-Pratice&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Car">
+  <component name="RunManager" selected="Application.DemoAnimal">
     <configuration name="Car" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="tester.classPratice.Car" />
       <module name="JavaPra" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="tester.classPratice.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CountVowelInStr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tester.metodsPratice.CountVowelInStr" />
-      <module name="JavaPra" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tester.metodsPratice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -82,6 +84,32 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tester.inheritancePratice.demo.Demo" />
+      <module name="JavaPra" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tester.inheritancePratice.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoAnimal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tester.inheritancePratice.demo.DemoAnimal" />
+      <module name="JavaPra" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tester.inheritancePratice.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="GetterSetterConcepts" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="tester.classPratice.GetterSetterConcepts" />
       <module name="JavaPra" />
@@ -95,26 +123,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrintCharBtw2RangeChar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tester.metodsPratice.PrintCharBtw2RangeChar" />
-      <module name="JavaPra" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tester.metodsPratice.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DemoAnimal" />
+        <item itemvalue="Application.Demo" />
         <item itemvalue="Application.Car" />
         <item itemvalue="Application.DateDemo" />
         <item itemvalue="Application.GetterSetterConcepts" />
-        <item itemvalue="Application.PrintCharBtw2RangeChar" />
-        <item itemvalue="Application.CountVowelInStr" />
       </list>
     </recent_temporary>
   </component>
@@ -148,7 +163,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675675944638</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="First Commit">
+      <created>1675676560368</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1675676560368</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
