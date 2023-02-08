@@ -5,12 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9ada2e1c-a771-4c6d-a9e2-75dc6de750dd" name="Changes" comment="Fourth Commit">
-      <change afterPath="$PROJECT_DIR$/src/tester/collectionPratice/IdComparator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tester/collectionPratice/LearnComparable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tester/collectionPratice/LearnComparator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tester/collectionPratice/NameComparator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tester/collectionPratice/ResultComparator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tester/collectionPratice/SortOnBasisOfMarksThenNames.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tester/genericPratice/GenericDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,18 +34,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "Downloaded.Files.Path.Enabled": "false",
-    "Repository.Attach.Annotations": "false",
-    "Repository.Attach.JavaDocs": "false",
-    "Repository.Attach.Sources": "false",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Tester/Java/Office-Pratice/src/tester/collectionPratice"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Tester/Java/Office-Pratice/src/tester/collectionPratice&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="tester.collectionPratice" />
@@ -61,7 +56,7 @@
       <recent name="C:\Tester\Java\Office-Pratice\src\tester\stringsPratice" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SortOnBasisOfMarksThenNames">
+  <component name="RunManager" selected="Application.GenericDemo">
     <configuration name="ArrayListDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="tester.collectionPratice.ArrayListDemo" />
       <module name="JavaPra" />
@@ -75,12 +70,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HashSetDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tester.collectionPratice.HashSetDemo" />
+    <configuration name="GenericDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tester.genericPratice.GenericDemo" />
       <module name="JavaPra" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tester.collectionPratice.*" />
+          <option name="PATTERN" value="tester.genericPratice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -129,11 +124,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.GenericDemo" />
         <item itemvalue="Application.SortOnBasisOfMarksThenNames" />
         <item itemvalue="Application.LearnComparator" />
         <item itemvalue="Application.LearnComparable" />
         <item itemvalue="Application.ArrayListDemo" />
-        <item itemvalue="Application.HashSetDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -237,7 +232,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675838959727</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Fourth Commit">
+      <created>1675851405320</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1675851405320</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
