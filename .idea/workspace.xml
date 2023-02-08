@@ -4,54 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9ada2e1c-a771-4c6d-a9e2-75dc6de750dd" name="Changes" comment="Third Commit">
-      <change afterPath="$PROJECT_DIR$/src/tester/collectionPratice/ArrayListDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tester/collectionPratice/Generic_Array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tester/collectionPratice/HashSetDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tester/collectionPratice/LearnCustomPriorityQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tester/collectionPratice/LearnDequeue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tester/collectionPratice/LearnLinkedHashSet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tester/collectionPratice/LearnLinkedListQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tester/collectionPratice/LearnPriorityQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tester/collectionPratice/LearnSet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tester/collectionPratice/LearnTreeSet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tester/collectionPratice/MapToArrayList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tester/collectionPratice/Stack_Learn.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tester/collectionPratice/StringPriorityQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tester/collectionPratice/Student_Set.java" afterDir="false" />
+    <list default="true" id="9ada2e1c-a771-4c6d-a9e2-75dc6de750dd" name="Changes" comment="Fourth Commit">
+      <change afterPath="$PROJECT_DIR$/src/tester/collectionPratice/IdComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tester/collectionPratice/LearnComparable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tester/collectionPratice/LearnComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tester/collectionPratice/NameComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tester/collectionPratice/ResultComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tester/collectionPratice/SortOnBasisOfMarksThenNames.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tester/arrayPratice/Best_Time_To_Sell_Stocks.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tester/arrayPratice/Bike_Crossing.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tester/arrayPratice/ContainsDuplicates.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tester/arrayPratice/Count_SubArray_Divisible_By_K.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tester/arrayPratice/Count_SubArray_Sum_Equal_To_K.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tester/arrayPratice/EvenFrequrncy.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tester/arrayPratice/Frequency_Each_ele_Arr.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tester/arrayPratice/GetMinMax.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tester/arrayPratice/K_th_LargestEle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tester/arrayPratice/Longest_Subarray_With_Sum_Divisible_By_K.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tester/arrayPratice/Majority_Element_With_n_By_3_Freq.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tester/arrayPratice/MaxProOfSubset.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tester/arrayPratice/MaximumFrequency.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tester/arrayPratice/MaximumSubArraySum.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tester/arrayPratice/MeanMedian.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tester/arrayPratice/Miis.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tester/arrayPratice/MinMergeOpsToMakePali.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tester/arrayPratice/PascalTriangle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tester/arrayPratice/RemoveDuplicateEle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tester/arrayPratice/Repeat_and_Missing_Number_Array.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tester/arrayPratice/ReplaceEleByRank.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tester/arrayPratice/SmallestAndSecondSmall.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tester/arrayPratice/SortAccToSecondArray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tester/arrayPratice/SortArrayOf_0_1_2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tester/arrayPratice/SortDecOrderAccToFreqOfEle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tester/arrayPratice/SubArray_Sum_Equal_To_K.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tester/arrayPratice/SubsetofArray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tester/arrayPratice/TcsArray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tester/arrayPratice/Traping_RainWater.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tester/arrayPratice/TwoSum.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tester/arrayPratice/kThSmallest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tester/arrayPratice/nextPermutation.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,31 +52,22 @@
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="tester.collectionPratice" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Tester\Java\Office-Pratice\src\tester\collectionPratice" />
       <recent name="C:\Tester\Java\Office-Pratice\src\tester\arrayPratice" />
       <recent name="C:\Tester\Java\Office-Pratice\src\tester\stringsPratice" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ArrayListDemo">
+  <component name="RunManager" selected="Application.SortOnBasisOfMarksThenNames">
     <configuration name="ArrayListDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="tester.collectionPratice.ArrayListDemo" />
       <module name="JavaPra" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="tester.collectionPratice.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FinallyBlock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tester.exceptionHndling.FinallyBlock" />
-      <module name="JavaPra" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tester.exceptionHndling.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -137,12 +88,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ThrowKeyword" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tester.exceptionHndling.ThrowKeyword" />
+    <configuration name="LearnComparable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tester.collectionPratice.LearnComparable" />
       <module name="JavaPra" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tester.exceptionHndling.*" />
+          <option name="PATTERN" value="tester.collectionPratice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -150,12 +101,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ThrowsKeyword" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tester.exceptionHndling.ThrowsKeyword" />
+    <configuration name="LearnComparator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tester.collectionPratice.LearnComparator" />
       <module name="JavaPra" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tester.exceptionHndling.*" />
+          <option name="PATTERN" value="tester.collectionPratice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SortOnBasisOfMarksThenNames" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tester.collectionPratice.SortOnBasisOfMarksThenNames" />
+      <module name="JavaPra" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tester.collectionPratice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -165,11 +129,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SortOnBasisOfMarksThenNames" />
+        <item itemvalue="Application.LearnComparator" />
+        <item itemvalue="Application.LearnComparable" />
         <item itemvalue="Application.ArrayListDemo" />
         <item itemvalue="Application.HashSetDemo" />
-        <item itemvalue="Application.ThrowsKeyword" />
-        <item itemvalue="Application.ThrowKeyword" />
-        <item itemvalue="Application.FinallyBlock" />
       </list>
     </recent_temporary>
   </component>
@@ -266,7 +230,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675793491422</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Fourth Commit">
+      <created>1675838959727</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1675838959727</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -274,6 +245,7 @@
     <MESSAGE value="First Commit" />
     <MESSAGE value="Second Commit" />
     <MESSAGE value="Third Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Third Commit" />
+    <MESSAGE value="Fourth Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fourth Commit" />
   </component>
 </project>
