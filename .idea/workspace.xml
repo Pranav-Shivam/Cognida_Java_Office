@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9ada2e1c-a771-4c6d-a9e2-75dc6de750dd" name="Changes" comment="Fourth Commit">
-      <change afterPath="$PROJECT_DIR$/src/tester/genericPratice/GenericDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tester/threadinPratice/ThreadDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,20 +56,7 @@
       <recent name="C:\Tester\Java\Office-Pratice\src\tester\stringsPratice" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.GenericDemo">
-    <configuration name="ArrayListDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tester.collectionPratice.ArrayListDemo" />
-      <module name="JavaPra" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tester.collectionPratice.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.ThreadDemo">
     <configuration name="GenericDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="tester.genericPratice.GenericDemo" />
       <module name="JavaPra" />
@@ -122,13 +109,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ThreadDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tester.threadinPratice.ThreadDemo" />
+      <module name="JavaPra" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tester.threadinPratice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ThreadDemo" />
         <item itemvalue="Application.GenericDemo" />
         <item itemvalue="Application.SortOnBasisOfMarksThenNames" />
         <item itemvalue="Application.LearnComparator" />
         <item itemvalue="Application.LearnComparable" />
-        <item itemvalue="Application.ArrayListDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -239,7 +239,21 @@
       <option name="project" value="LOCAL" />
       <updated>1675851405320</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Fourth Commit">
+      <created>1675878282775</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1675878282775</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Fourth Commit">
+      <created>1675878551034</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1675878551034</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
