@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9ada2e1c-a771-4c6d-a9e2-75dc6de750dd" name="Changes" comment="Fifth Commit">
-      <change afterPath="$PROJECT_DIR$/src/tester/threadinPratice/ThreadSynchronization.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tester/threadinPratice/ThreadVolatile.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,22 +55,9 @@
       <recent name="C:\Tester\Java\Office-Pratice\src\tester\stringsPratice" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ThreadSynchronization">
+  <component name="RunManager" selected="Application.ThreadVolatile">
     <configuration name="ThreadCompanyMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="tester.threadinPratice.ThreadCompanyMain" />
-      <module name="JavaPra" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tester.threadinPratice.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ThreadDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tester.threadinPratice.ThreadDemo" />
       <module name="JavaPra" />
       <extension name="coverage">
         <pattern>
@@ -109,6 +95,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ThreadVolatile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tester.threadinPratice.ThreadVolatile" />
+      <module name="JavaPra" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tester.threadinPratice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="UseIsAliveMethods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="tester.threadinPratice.UseIsAliveMethods" />
       <module name="JavaPra" />
@@ -124,11 +123,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ThreadVolatile" />
         <item itemvalue="Application.ThreadSynchronization" />
         <item itemvalue="Application.ThreadCompanyMain" />
         <item itemvalue="Application.UseIsAliveMethods" />
         <item itemvalue="Application.ThreadOps" />
-        <item itemvalue="Application.ThreadDemo" />
       </list>
     </recent_temporary>
   </component>
