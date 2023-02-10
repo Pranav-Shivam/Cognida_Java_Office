@@ -1,9 +1,7 @@
 package tester.threadinPratice;
-
 public class ThreadVolatile {
     public static volatile int value;
     public static void main(String[] args) {
-
         Thread t1=new Thread(()->{
             int ct=value;
             while (ct<10)

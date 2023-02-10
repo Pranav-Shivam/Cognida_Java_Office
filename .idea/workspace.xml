@@ -5,7 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9ada2e1c-a771-4c6d-a9e2-75dc6de750dd" name="Changes" comment="Fifth Commit">
-      <change afterPath="$PROJECT_DIR$/src/tester/threadinPratice/ThreadVolatile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tester/anonymousClass/FunctionInterfaceEg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tester/anonymousClass/functionInterface1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tester/threadinPratice/ThreadVolatile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tester/threadinPratice/ThreadVolatile.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,6 +19,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -55,13 +59,13 @@
       <recent name="C:\Tester\Java\Office-Pratice\src\tester\stringsPratice" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ThreadVolatile">
-    <configuration name="ThreadCompanyMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tester.threadinPratice.ThreadCompanyMain" />
+  <component name="RunManager" selected="Application.FunctionInterfaceEg">
+    <configuration name="FunctionInterfaceEg" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tester.anonymousClass.FunctionInterfaceEg" />
       <module name="JavaPra" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tester.threadinPratice.*" />
+          <option name="PATTERN" value="tester.anonymousClass.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -69,8 +73,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ThreadOps" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tester.threadinPratice.ThreadOps" />
+    <configuration name="ThreadCompanyMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tester.threadinPratice.ThreadCompanyMain" />
       <module name="JavaPra" />
       <extension name="coverage">
         <pattern>
@@ -123,11 +127,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FunctionInterfaceEg" />
         <item itemvalue="Application.ThreadVolatile" />
         <item itemvalue="Application.ThreadSynchronization" />
         <item itemvalue="Application.ThreadCompanyMain" />
         <item itemvalue="Application.UseIsAliveMethods" />
-        <item itemvalue="Application.ThreadOps" />
       </list>
     </recent_temporary>
   </component>
@@ -266,7 +270,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675933593374</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Fifth Commit">
+      <created>1675948451582</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1675948451582</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
