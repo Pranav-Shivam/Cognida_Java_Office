@@ -5,16 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9ada2e1c-a771-4c6d-a9e2-75dc6de750dd" name="Changes" comment="Sixth Commit">
-      <change afterPath="$PROJECT_DIR$/src/tester/anonymousClass/ButtonClickedEvents.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tester/anonymousFunction/CheckPrime.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tester/lambdaPratice/ButtonClickedLambda.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tester/lambdaPratice/ThreadWithLambda.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tester/streamApi/ArrayListOps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tester/streamApi/FunctionalInterfaceUses.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tester/streamApi/StreamMethods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tester/streamApi/StreamOps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tester/anonymousClass/ImplementingOnCollections.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tester/anonymousFunction/ValidVoter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tester/lambdaPratice/LambdaDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tester/lambdaPratice/LambdaOnCollections.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tester/lambdaPratice/ValidVoterLambda.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tester/anonymousClass/FunctionInterfaceEg.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tester/anonymousClass/FunctionInterfaceEg.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tester/streamApi/FunctionalInterfaceUses.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tester/streamApi/FunctionalInterfaceUses.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,9 +62,9 @@
       <recent name="C:\Tester\Java\Office-Pratice\src\tester\stringsPratice" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ButtonClickedLambda">
-    <configuration name="ButtonClickedEvents" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tester.anonymousClass.ButtonClickedEvents" />
+  <component name="RunManager" selected="Application.ValidVoterLambda">
+    <configuration name="ImplementingOnCollections" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tester.anonymousClass.ImplementingOnCollections" />
       <module name="JavaPra" />
       <extension name="coverage">
         <pattern>
@@ -79,8 +76,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ButtonClickedLambda" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tester.lambdaPratice.ButtonClickedLambda" />
+    <configuration name="LambdaDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tester.lambdaPratice.LambdaDemo" />
       <module name="JavaPra" />
       <extension name="coverage">
         <pattern>
@@ -92,12 +89,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FunctionalInterfaceUses" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tester.streamApi.FunctionalInterfaceUses" />
+    <configuration name="LambdaOnCollections" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tester.lambdaPratice.LambdaOnCollections" />
       <module name="JavaPra" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tester.streamApi.*" />
+          <option name="PATTERN" value="tester.lambdaPratice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,12 +102,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StreamOps" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tester.streamApi.StreamOps" />
+    <configuration name="ValidVoter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tester.anonymousFunction.ValidVoter" />
       <module name="JavaPra" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tester.streamApi.*" />
+          <option name="PATTERN" value="tester.anonymousFunction.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,8 +115,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ThreadWithLambda" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tester.lambdaPratice.ThreadWithLambda" />
+    <configuration name="ValidVoterLambda" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tester.lambdaPratice.ValidVoterLambda" />
       <module name="JavaPra" />
       <extension name="coverage">
         <pattern>
@@ -133,11 +130,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ButtonClickedLambda" />
-        <item itemvalue="Application.ButtonClickedEvents" />
-        <item itemvalue="Application.ThreadWithLambda" />
-        <item itemvalue="Application.FunctionalInterfaceUses" />
-        <item itemvalue="Application.StreamOps" />
+        <item itemvalue="Application.ValidVoterLambda" />
+        <item itemvalue="Application.ValidVoter" />
+        <item itemvalue="Application.LambdaOnCollections" />
+        <item itemvalue="Application.LambdaDemo" />
+        <item itemvalue="Application.ImplementingOnCollections" />
       </list>
     </recent_temporary>
   </component>
@@ -297,7 +294,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676005839332</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="Sixth Commit">
+      <created>1676183764404</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1676183764404</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

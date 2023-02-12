@@ -2,7 +2,7 @@ package tester.streamApi;
 
 // interface implementation
 @FunctionalInterface
-interface StaticandDefaultMethods{
+interface StaticAndDefaultMethods{
     // abstract method
     int square(int x);
     // default methods
@@ -22,7 +22,7 @@ interface StaticandDefaultMethods{
 }
 
 // public class
-public class FunctionalInterfaceUses implements StaticandDefaultMethods{
+public class FunctionalInterfaceUses implements StaticAndDefaultMethods{
     public static void main(String[] args){
         int a = 8;
         int b = 6;
@@ -32,8 +32,8 @@ public class FunctionalInterfaceUses implements StaticandDefaultMethods{
         int add = t.add(a,b);
         int sub = t.sub(a,b);
         // static methods called directly by the interface name
-        int mul = StaticandDefaultMethods.multiply(a,b);
-        int div = StaticandDefaultMethods.divide(a,b);
+        int mul = StaticAndDefaultMethods.multiply(a,b);
+        int div = StaticAndDefaultMethods.divide(a,b);
         System.out.println(add+" "+sub+" "+mul+" "+div);
     }
     // abstract method
