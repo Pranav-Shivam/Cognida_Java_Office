@@ -10,5 +10,11 @@ public class FunctionInterfaceEg {
             }
         };
         x.sayHi();
+
+        //using lambda
+
+        functionInterface1 l=()->{
+            System.out.println("Har Har Mahadev");
+        };
     }
 }

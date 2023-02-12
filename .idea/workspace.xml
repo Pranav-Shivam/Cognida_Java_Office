@@ -4,11 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9ada2e1c-a771-4c6d-a9e2-75dc6de750dd" name="Changes" comment="Fifth Commit">
-      <change afterPath="$PROJECT_DIR$/src/tester/anonymousClass/FunctionInterfaceEg.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tester/anonymousClass/functionInterface1.java" afterDir="false" />
+    <list default="true" id="9ada2e1c-a771-4c6d-a9e2-75dc6de750dd" name="Changes" comment="Sixth Commit">
+      <change afterPath="$PROJECT_DIR$/src/tester/anonymousClass/ButtonClickedEvents.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tester/anonymousFunction/CheckPrime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tester/lambdaPratice/ButtonClickedLambda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tester/lambdaPratice/ThreadWithLambda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tester/streamApi/ArrayListOps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tester/streamApi/FunctionalInterfaceUses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tester/streamApi/StreamMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tester/streamApi/StreamOps.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tester/threadinPratice/ThreadVolatile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tester/threadinPratice/ThreadVolatile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tester/anonymousClass/FunctionInterfaceEg.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tester/anonymousClass/FunctionInterfaceEg.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,8 +24,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -59,9 +65,9 @@
       <recent name="C:\Tester\Java\Office-Pratice\src\tester\stringsPratice" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.FunctionInterfaceEg">
-    <configuration name="FunctionInterfaceEg" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tester.anonymousClass.FunctionInterfaceEg" />
+  <component name="RunManager" selected="Application.ButtonClickedLambda">
+    <configuration name="ButtonClickedEvents" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tester.anonymousClass.ButtonClickedEvents" />
       <module name="JavaPra" />
       <extension name="coverage">
         <pattern>
@@ -73,12 +79,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ThreadCompanyMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tester.threadinPratice.ThreadCompanyMain" />
+    <configuration name="ButtonClickedLambda" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tester.lambdaPratice.ButtonClickedLambda" />
       <module name="JavaPra" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tester.threadinPratice.*" />
+          <option name="PATTERN" value="tester.lambdaPratice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -86,12 +92,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ThreadSynchronization" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tester.threadinPratice.ThreadSynchronization" />
+    <configuration name="FunctionalInterfaceUses" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tester.streamApi.FunctionalInterfaceUses" />
       <module name="JavaPra" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tester.threadinPratice.*" />
+          <option name="PATTERN" value="tester.streamApi.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,12 +105,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ThreadVolatile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tester.threadinPratice.ThreadVolatile" />
+    <configuration name="StreamOps" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tester.streamApi.StreamOps" />
       <module name="JavaPra" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tester.threadinPratice.*" />
+          <option name="PATTERN" value="tester.streamApi.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,12 +118,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UseIsAliveMethods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tester.threadinPratice.UseIsAliveMethods" />
+    <configuration name="ThreadWithLambda" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tester.lambdaPratice.ThreadWithLambda" />
       <module name="JavaPra" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tester.threadinPratice.*" />
+          <option name="PATTERN" value="tester.lambdaPratice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,11 +133,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.FunctionInterfaceEg" />
-        <item itemvalue="Application.ThreadVolatile" />
-        <item itemvalue="Application.ThreadSynchronization" />
-        <item itemvalue="Application.ThreadCompanyMain" />
-        <item itemvalue="Application.UseIsAliveMethods" />
+        <item itemvalue="Application.ButtonClickedLambda" />
+        <item itemvalue="Application.ButtonClickedEvents" />
+        <item itemvalue="Application.ThreadWithLambda" />
+        <item itemvalue="Application.FunctionalInterfaceUses" />
+        <item itemvalue="Application.StreamOps" />
       </list>
     </recent_temporary>
   </component>
@@ -277,7 +283,21 @@
       <option name="project" value="LOCAL" />
       <updated>1675948451582</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Fifth Commit">
+      <created>1676005819756</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1676005819756</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Sixth Commit">
+      <created>1676005839332</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1676005839332</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -287,6 +307,7 @@
     <MESSAGE value="Third Commit" />
     <MESSAGE value="Fourth Commit" />
     <MESSAGE value="Fifth Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fifth Commit" />
+    <MESSAGE value="Sixth Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Sixth Commit" />
   </component>
 </project>
