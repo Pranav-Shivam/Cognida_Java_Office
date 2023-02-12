@@ -5,13 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9ada2e1c-a771-4c6d-a9e2-75dc6de750dd" name="Changes" comment="Sixth Commit">
-      <change afterPath="$PROJECT_DIR$/src/tester/anonymousClass/ImplementingOnCollections.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tester/anonymousFunction/ValidVoter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tester/lambdaPratice/LambdaDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tester/lambdaPratice/LambdaOnCollections.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tester/lambdaPratice/ValidVoterLambda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Third.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tester/fileHandling/AppendingIntoFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tester/fileHandling/DeletingFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tester/fileHandling/FileCreatedWithFolder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tester/fileHandling/FileCreations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tester/fileHandling/ReadingFileWithScanner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tester/fileHandling/ReadingFromTheFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tester/fileHandling/WritingIntoFile.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tester/streamApi/FunctionalInterfaceUses.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tester/streamApi/FunctionalInterfaceUses.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,13 +64,13 @@
       <recent name="C:\Tester\Java\Office-Pratice\src\tester\stringsPratice" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ValidVoterLambda">
-    <configuration name="ImplementingOnCollections" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tester.anonymousClass.ImplementingOnCollections" />
+  <component name="RunManager" selected="Application.DeletingFile">
+    <configuration name="AppendingIntoFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tester.fileHandling.AppendingIntoFile" />
       <module name="JavaPra" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tester.anonymousClass.*" />
+          <option name="PATTERN" value="tester.fileHandling.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -76,12 +78,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LambdaDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tester.lambdaPratice.LambdaDemo" />
+    <configuration name="DeletingFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tester.fileHandling.DeletingFile" />
       <module name="JavaPra" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tester.lambdaPratice.*" />
+          <option name="PATTERN" value="tester.fileHandling.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -89,12 +91,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LambdaOnCollections" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tester.lambdaPratice.LambdaOnCollections" />
+    <configuration name="ReadingFileWithScanner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tester.fileHandling.ReadingFileWithScanner" />
       <module name="JavaPra" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tester.lambdaPratice.*" />
+          <option name="PATTERN" value="tester.fileHandling.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,12 +104,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ValidVoter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tester.anonymousFunction.ValidVoter" />
+    <configuration name="ReadingFromTheFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tester.fileHandling.ReadingFromTheFile" />
       <module name="JavaPra" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tester.anonymousFunction.*" />
+          <option name="PATTERN" value="tester.fileHandling.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,12 +117,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ValidVoterLambda" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tester.lambdaPratice.ValidVoterLambda" />
+    <configuration name="WritingIntoFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tester.fileHandling.WritingIntoFile" />
       <module name="JavaPra" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tester.lambdaPratice.*" />
+          <option name="PATTERN" value="tester.fileHandling.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -130,11 +132,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ValidVoterLambda" />
-        <item itemvalue="Application.ValidVoter" />
-        <item itemvalue="Application.LambdaOnCollections" />
-        <item itemvalue="Application.LambdaDemo" />
-        <item itemvalue="Application.ImplementingOnCollections" />
+        <item itemvalue="Application.DeletingFile" />
+        <item itemvalue="Application.ReadingFileWithScanner" />
+        <item itemvalue="Application.ReadingFromTheFile" />
+        <item itemvalue="Application.AppendingIntoFile" />
+        <item itemvalue="Application.WritingIntoFile" />
       </list>
     </recent_temporary>
   </component>
@@ -301,7 +303,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676183764404</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="Sixth Commit">
+      <created>1676207852921</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1676207852921</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
