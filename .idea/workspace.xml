@@ -5,15 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9ada2e1c-a771-4c6d-a9e2-75dc6de750dd" name="Changes" comment="Sixth Commit">
-      <change afterPath="$PROJECT_DIR$/src/Third.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tester/fileHandling/AppendingIntoFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tester/fileHandling/DeletingFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tester/fileHandling/FileCreatedWithFolder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tester/fileHandling/FileCreations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tester/fileHandling/ReadingFileWithScanner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tester/fileHandling/ReadingFromTheFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tester/fileHandling/WritingIntoFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tester/fileHandling/Another.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tester/interfacePratice/checker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tester/lambdaPratice/EvenOrOdd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tester/streamApi/CarStream.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tester/anonymousClass/functionInterface1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tester/anonymousClass/functionInterface1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,9 +61,9 @@
       <recent name="C:\Tester\Java\Office-Pratice\src\tester\stringsPratice" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DeletingFile">
-    <configuration name="AppendingIntoFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tester.fileHandling.AppendingIntoFile" />
+  <component name="RunManager" selected="Application.Another">
+    <configuration name="Another" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tester.fileHandling.Another" />
       <module name="JavaPra" />
       <extension name="coverage">
         <pattern>
@@ -91,6 +88,32 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="EvenOrOdd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tester.lambdaPratice.EvenOrOdd" />
+      <module name="JavaPra" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tester.lambdaPratice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LambdaOnCollections" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tester.lambdaPratice.LambdaOnCollections" />
+      <module name="JavaPra" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tester.lambdaPratice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ReadingFileWithScanner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="tester.fileHandling.ReadingFileWithScanner" />
       <module name="JavaPra" />
@@ -104,39 +127,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReadingFromTheFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tester.fileHandling.ReadingFromTheFile" />
-      <module name="JavaPra" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tester.fileHandling.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="WritingIntoFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tester.fileHandling.WritingIntoFile" />
-      <module name="JavaPra" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tester.fileHandling.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Another" />
+        <item itemvalue="Application.EvenOrOdd" />
+        <item itemvalue="Application.LambdaOnCollections" />
         <item itemvalue="Application.DeletingFile" />
         <item itemvalue="Application.ReadingFileWithScanner" />
-        <item itemvalue="Application.ReadingFromTheFile" />
-        <item itemvalue="Application.AppendingIntoFile" />
-        <item itemvalue="Application.WritingIntoFile" />
       </list>
     </recent_temporary>
   </component>
@@ -310,7 +307,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676207852921</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="Sixth Commit">
+      <created>1676228930098</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1676228930098</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
